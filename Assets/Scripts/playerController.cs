@@ -1,10 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-
-
-
-
 [System.Serializable]
 
 public class Boundary{
@@ -40,8 +36,6 @@ public class playerController : MonoBehaviour {
 			Instantiate(shot,shotSpawn.position,shotSpawn.rotation);
 		
 		}
-
-
 
 	}
 	
