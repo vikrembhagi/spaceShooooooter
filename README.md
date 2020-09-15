@@ -1,3 +1,3 @@
 # spaceShooooooter
 
-Lots of examples for done code in here. Find the code I wrote in Assets/_Scenes/Level1
+A 2d space shooter game built in Unity with C#
